@@ -18,8 +18,8 @@ An AI-powered news summarization tool that takes user queries, fetches relevant 
 ## Installation
 1. Clone this repository:
 ```
-git clone https://github.com/your-username/ai-powered-news-summarizer.git
-cd ai-powered-news-summarizer
+git clone https://github.com/hemantkumarlearning/AI_Powered_News.git
+cd AI_Powered_News
 ```
 2. Create a virtual environment:
 ```
